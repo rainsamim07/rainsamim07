@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Samim Rain from Janakpurdham, NEPAL.
-- 👀 I’m interested in software development.
+- 👀 I’m interested in software development and Full stack development.
 - 🌱 I’m currently learning JAVA and Python.
 - 🔭 I’m a Student at (Islington College, kathmandu, NEPAL).
 - 🖥 Skills
