@@ -16,8 +16,8 @@
 
 ### 📫 Connect With Me
 - 📧 Email: [samimrain330@gmail.com](mailto:samimrain330@gmail.com)
-- 📸 Instagram: [@samim_rain07](https://www.instagram.com/samim_rain07/?__pwa=1)
-- 👤 Facebook: [samimrain](https://www.facebook.com/samimrain007)
+- 📸 Instagram: [samim_rain07](https://www.instagram.com/samim_rain07/?__pwa=1)
+- 👤 Facebook: [Samim Rain](https://www.facebook.com/samimrain007)
 - 💼 LinkedIn: ...
 - 🌍 From: Janakpurdham, Nepal 🇳🇵
 
