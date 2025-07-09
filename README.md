@@ -1,23 +1,34 @@
-MD Samim Rain
-Janakpurdham, Nepal
-Email: [Your Email Address]
-Phone: [Your Phone Number]
+# 👋 Hi there, I'm MD Samim Rain
 
-Objective:
-Enthusiastic and dedicated BSc.IT (Computing) student currently in the 1st semester, with a passion for web development. Seeking opportunities to apply and enhance my skills in HTML, CSS, and JavaScript in a dynamic and challenging environment.
+🎓 I'm a **Computer Science student at Islington College (London Metropolitan University)**  
+💻 Passionate about **coding**, **problem-solving**, and **future technology**  
+🚀 Currently learning: **React.js**, **Node.js**, **MongoDB** (MERN Stack)
 
-Education:
-Bachelor of Science in Information Technology (BSc.IT)
-[Your University Name], [City, Country]
-Expected Graduation: [Month, Year]
-- Currently in the 1st semester
+---
 
-Skills:
-- Proficient in HTML, CSS, and JavaScript
-- [Any additional technical skills or tools you may have]
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python, C
+- **Frontend:** React, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL (basic)
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
 
-Hobbies:
-Apart from my academic pursuits, I am an avid cricket enthusiast, finding joy in both playing and watching the sport. I also have a deep appreciation for literature, spending my leisure time reading books. Another aspect of my personality is my interest in engaging with diverse perspectives, making me comfortable in communicating with strangers and building connections.
+---
 
-Feel free to contact me via email or phone to discuss potential opportunities or collaborations.
+### 💡 Projects (More coming soon...)
+- 🔧 [To-Do App](#) – React + Node CRUD App  
+- 🌐 [Portfolio Website](#) – Personal responsive website (HTML/CSS/JS)
 
+---
+
+### 📫 Connect With Me
+- 📧 Email: [samimrain330@gmail.com](mailto:samimrain330@gmail.com)
+- 📸 Instagram: [@samim_rain07](https://www.instagram.com/samim_rain07/?__pwa=1)
+- 👤 Facebook: [facebook.com/share/1Lp7Yz3dds](https://www.facebook.com/share/1Lp7Yz3dds/)
+- 💼 LinkedIn: Coming soon...
+- 🌍 From: Janakpurdham, Nepal 🇳🇵
+
+---
+
+### ⚡ Fun Fact
+> "The code I write today is the future I build for tomorrow." 🌟
