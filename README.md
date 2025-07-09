@@ -15,12 +15,6 @@
 
 ---
 
-### 💡 Projects (More coming soon...)
-- 🔧 [To-Do App](#) – React + Node CRUD App  
-- 🌐 [Portfolio Website](#) – Personal responsive website (HTML/CSS/JS)
-
----
-
 ### 📫 Connect With Me
 - 📧 Email: [samimrain330@gmail.com](mailto:samimrain330@gmail.com)
 - 📸 Instagram: [@samim_rain07](https://www.instagram.com/samim_rain07/?__pwa=1)
