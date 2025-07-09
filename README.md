@@ -2,16 +2,15 @@
 
 🎓 I'm a **Computer Science student at Islington College (London Metropolitan University)**  
 💻 Passionate about **coding**, **problem-solving**, and **future technology**  
-🚀 Currently learning: **React.js**, **Node.js**, **MongoDB** (MERN Stack)
+🚀 Currently learning: **React.js**, **Node.js**, **MongoDB**
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python, C
-- **Frontend:** React, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL (basic)
-- **Tools:** Git, GitHub, VS Code, Postman, Figma
+### 🛠️ Tech Stack 
+- **Frontend:** React, Tailwind CSS, HTML, JavaScript
+- **Backend:** Java, Python
+- **Database:** MongoDB (basic), MySQL 
+- **Tools:** GitHub, VS Code, Postman, Figma, CANVAS 
 
 ---
 
@@ -19,7 +18,7 @@
 - 📧 Email: [samimrain330@gmail.com](mailto:samimrain330@gmail.com)
 - 📸 Instagram: [@samim_rain07](https://www.instagram.com/samim_rain07/?__pwa=1)
 - 👤 Facebook: [facebook.com/share/1Lp7Yz3dds](https://www.facebook.com/share/1Lp7Yz3dds/)
-- 💼 LinkedIn: Coming soon...
+- 💼 LinkedIn: ...
 - 🌍 From: Janakpurdham, Nepal 🇳🇵
 
 ---
