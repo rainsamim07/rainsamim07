@@ -1,6 +1,5 @@
 # 👋 Hi, I'm MD Samim Rain
 
-
 ## 🌐 Connect With Me
 
 [![GitHub Followers](https://img.shields.io/github/followers/rainsamim07?label=GitHub&style=social)](https://github.com/rainsamim07)
@@ -9,14 +8,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samim_rain07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samim-rain-6a3b9b267/)
 
----
 
 
 🎓 I'm a **Computer Science student at Islington College (London Metropolitan University)**  
 💻 Passionate about **coding**, **problem-solving**, and **future technology**  
 🚀 Currently learning: **React.js**, **Node.js**, **MongoDB**
 
----
 
 ## 💻 Skills
 
@@ -34,7 +31,6 @@
 
 
 
----
 # ⚙️ GitHub Stats:
 <div style="background-color: #ddd; padding: 10px;">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainsamim07&show_icons=true&locale=en&layout=compact" alt="rainsamim07" />
@@ -42,8 +38,6 @@
 </div>
 
 
-
----
 
 ### ⚡ Fun Fact
 > The code I write today is the future I build for tomorrow. 🌟
