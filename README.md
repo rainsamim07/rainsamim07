@@ -31,11 +31,13 @@
 
 
 
-# ⚙️ GitHub Stats:
-<div style="background-color: #ddd; padding: 10px;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainsamim07&show_icons=true&locale=en&layout=compact" alt="rainsamim07" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rainsamim07&" alt="rainsamim07" />
+## ⚙️ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainsamim07&layout=compact&hide_progress=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainsamim07" alt="GitHub Streak" height="150"/>
 </div>
+
 
 
 
