@@ -33,14 +33,7 @@
 
 # ⚙️ GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainsamim07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rainsamim07&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainsamim07&layout=compact&theme=radical" width="60%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rainsamim07&show_icons=true&theme=default" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=rainsamim07&theme=default" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainsamim07&layout=compact&theme=default" width="60%" /> </p>
 
 
 
